@@ -1,0 +1,12 @@
+C:\Santosh\Learning\Dotnet\Projects\DairyManagement\DairyManagement.Domain\bin\Debug\net6.0\DairyManagement.Domain.deps.json
+C:\Santosh\Learning\Dotnet\Projects\DairyManagement\DairyManagement.Domain\bin\Debug\net6.0\DairyManagement.Domain.dll
+C:\Santosh\Learning\Dotnet\Projects\DairyManagement\DairyManagement.Domain\bin\Debug\net6.0\DairyManagement.Domain.pdb
+C:\Santosh\Learning\Dotnet\Projects\DairyManagement\DairyManagement.Domain\obj\Debug\net6.0\DairyManagement.Domain.csproj.AssemblyReference.cache
+C:\Santosh\Learning\Dotnet\Projects\DairyManagement\DairyManagement.Domain\obj\Debug\net6.0\DairyManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Santosh\Learning\Dotnet\Projects\DairyManagement\DairyManagement.Domain\obj\Debug\net6.0\DairyManagement.Domain.AssemblyInfoInputs.cache
+C:\Santosh\Learning\Dotnet\Projects\DairyManagement\DairyManagement.Domain\obj\Debug\net6.0\DairyManagement.Domain.AssemblyInfo.cs
+C:\Santosh\Learning\Dotnet\Projects\DairyManagement\DairyManagement.Domain\obj\Debug\net6.0\DairyManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Santosh\Learning\Dotnet\Projects\DairyManagement\DairyManagement.Domain\obj\Debug\net6.0\DairyManagement.Domain.dll
+C:\Santosh\Learning\Dotnet\Projects\DairyManagement\DairyManagement.Domain\obj\Debug\net6.0\refint\DairyManagement.Domain.dll
+C:\Santosh\Learning\Dotnet\Projects\DairyManagement\DairyManagement.Domain\obj\Debug\net6.0\DairyManagement.Domain.pdb
+C:\Santosh\Learning\Dotnet\Projects\DairyManagement\DairyManagement.Domain\obj\Debug\net6.0\ref\DairyManagement.Domain.dll

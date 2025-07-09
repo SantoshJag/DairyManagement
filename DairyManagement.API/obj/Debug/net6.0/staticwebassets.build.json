@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Av5dCMlo3cxaL4EtByxaKYG6YW5xQz6TsWoYnb1lnPU=",
+  "Source": "DairyManagement.API",
+  "BasePath": "_content/DairyManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
