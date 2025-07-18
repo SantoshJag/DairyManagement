@@ -16,7 +16,7 @@ public class ProductController : ControllerBase
     public async Task<IActionResult> GetById(long id)
     {
         var product = await _service.GetProductByIdAsync(id);
-        if (product == null) return NoContent();
+        if (product == null) return NotFound();
         return Ok(product);
     }
 }
