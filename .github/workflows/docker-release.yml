@@ -29,7 +29,7 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
         with:
-          context: ./DairyManagement.API
+          context: .
           file: ./DairyManagement.API/Dockerfile
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/dairy-management-api:latest
